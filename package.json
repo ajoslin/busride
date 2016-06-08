@@ -1,0 +1,35 @@
+{
+  "name": "busride",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Immutable, namespaced EventBus",
+  "license": "MIT",
+  "repository": "ajoslin/busride",
+  "author": {
+    "name": "Andrew Joslin",
+    "email": "andrewtjoslin@gmail.com",
+    "url": "ajoslin.com"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "eventbus",
+    "mercury",
+    "event",
+    "immutable",
+    "namespace"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^7.0.0"
+  },
+  "files": [
+    "index.js",
+    "test.js"
+  ],
+  "dependencies": {
+    "assert": "~1.4.1",
+    "xtend": "~4.0.1"
+  }
+}
