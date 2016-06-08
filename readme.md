@@ -1,6 +1,6 @@
 # busride [![Build Status](https://travis-ci.org/ajoslin/busride.svg?branch=master)](https://travis-ci.org/ajoslin/busride)
 
-> Immutable, namespaced EventBus
+> Immutable, namespaced event bus
 
 ## Install
 
