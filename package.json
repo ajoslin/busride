@@ -1,7 +1,7 @@
 {
   "name": "busride",
   "main": "index.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Immutable, namespaced event bus",
   "license": "MIT",
   "repository": "ajoslin/busride",
