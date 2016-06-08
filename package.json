@@ -2,7 +2,7 @@
   "name": "busride",
   "main": "index.js",
   "version": "1.0.0",
-  "description": "Immutable, namespaced EventBus",
+  "description": "Immutable, namespaced event bus",
   "license": "MIT",
   "repository": "ajoslin/busride",
   "author": {
@@ -14,6 +14,7 @@
     "test": "standard && tape test.js"
   },
   "keywords": [
+    "event bus",
     "eventbus",
     "mercury",
     "event",
