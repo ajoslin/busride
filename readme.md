@@ -20,9 +20,6 @@ bus.namespace('airplane', {
 })
 
 bus.emit('airplane:fly', 'high') // => 'fly high'
-
-bus.emit('airplane:invalid', 'payload') // => error
-bus.emit('somethingElse:fly', 'payload') // => error
 ```
 
 ## API
